@@ -10,6 +10,8 @@
     padding: 0;
     font-family: monospace;
     font-size: 34px;
+    /*color: rgb(246, 240, 223);*/
+    color: #ffe0e8 ;
     box-sizing: border-box;
     /*background-color: palevioletred;*/
 }
@@ -35,8 +37,8 @@
     scroll-snap-align: start;
     scroll-snap-stop: always;
 }
-.slide1{
-    background-color: palevioletred;
+#slide1{
+    background-color: rgb(76, 69, 76);
 }
 .mouse-scroll{
     width: 1.2em;
@@ -70,7 +72,10 @@
     }
 }
 
-.slide2{
-    background-color: cyan;
+#slide2{
+    background-color: rgb(76, 69, 76);
+}
+#slide3{
+    background-color: rgb(76, 69, 76);
 }
 
