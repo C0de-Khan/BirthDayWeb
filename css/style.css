@@ -38,7 +38,8 @@
     scroll-snap-stop: always;
 }
 #slide1{
-    background-color: rgb(76, 69, 76);
+    /*background-color: rgb(76, 69, 76);*/
+    background-color: rgb(58, 71, 91);
 }
 .mouse-scroll{
     width: 1.2em;
@@ -73,9 +74,9 @@
 }
 
 #slide2{
-    background-color: rgb(76, 69, 76);
+    background-color: rgb(51, 56, 61);
 }
 #slide3{
-    background-color: rgb(76, 69, 76);
+    background-color: rgb(61, 78, 90);
 }
 
